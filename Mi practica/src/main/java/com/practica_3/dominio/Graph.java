@@ -1,4 +1,4 @@
-package dominio;
+package com.practica_3.dominio;
 
 import java.util.ArrayList;
 import java.util.Collections;

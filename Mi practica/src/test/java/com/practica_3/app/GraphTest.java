@@ -1,8 +1,14 @@
 package com.practica_3.app;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.junit.Test;
+
+import com.practica_3.dominio.Graph;
 
 /**
  * Unit test for simple App.
@@ -11,9 +17,10 @@ public class GraphTest
 {
     /**
      * Rigorous Test :-)
+     * @throws Exception
      */
     @Test
-    public void onePathFindsAPath(){
+    public void onePathFindsAPath() throws Exception{
     System.out.println("\nTest onePathFindsAPath");
     System.out.println("----------------------");
     // Se construye el grafo.
