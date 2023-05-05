@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.practica_3.app.GraphTest" time="0.078" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.practica_3.app.GraphTest" time="0.079" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire1539932246891213200\surefirebooter7241371105315087240.jar C:\Users\HP\AppData\Local\Temp\surefire1539932246891213200 2023-05-03T09-16-45_760-jvmRun1 surefire3289791284210753204tmp surefire_014510773696580197587tmp"/>
+    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire17755896986639959061\surefirebooter16557991820867527902.jar C:\Users\HP\AppData\Local\Temp\surefire17755896986639959061 2023-05-05T10-08-32_991-jvmRun1 surefire15449840981758230659tmp surefire_012241535265889193199tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\HP\Desktop\CEU 1ER AÑO\SEGUNDO SEMESTRE\PROGRAMACION 2\PRACTICAS\practica-3-de-progra\Mi practica\target\test-classes;C:\Users\HP\Desktop\CEU 1ER AÑO\SEGUNDO SEMESTRE\PROGRAMACION 2\PRACTICAS\practica-3-de-progra\Mi practica\target\classes;C:\Users\HP\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\HP\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire1539932246891213200\surefirebooter7241371105315087240.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire17755896986639959061\surefirebooter16557991820867527902.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.7+8-LTS-224"/>
@@ -49,12 +49,12 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\HP\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\HP\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Java\jdk-11.0.16\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.16\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk-17;C:\Program Files\Maven\apache-maven-3.9.1\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Program Files(x86)\GnuWin32\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;C:\Users\HP\AppData\Local\GitHubDesktop\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.16\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.16\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk-17;C:\Program Files\Maven\apache-maven-3.9.1\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;c:\Program Files(x86)\GnuWin32\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\HP\AppData\Local\GitHubDesktop\bin;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="17.0.7+8-LTS-224"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="onePathFindsAPath" classname="com.practica_3.app.GraphTest" time="0.008"/>
+  <testcase name="onePathFindsAPath" classname="com.practica_3.app.GraphTest" time="0.01"/>
 </testsuite>
